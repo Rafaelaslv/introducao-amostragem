@@ -1,6 +1,12 @@
-👩‍🔬🎲Amostragem
+# 👩‍🔬🎲Amostragem
+
+---
+
 Minhas anotações sobre Amostragem.
+
+---
 
 Sumário
 
-O que é Amostragem?
+* O que é Amostragem?
+* 
