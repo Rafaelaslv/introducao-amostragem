@@ -1,8 +1,8 @@
-# 👩‍🔬🎲Amostragem
+# 👩‍🔬🎲Estatística para Ciência de Dados.
 
 ---
 
-Minhas anotações sobre Amostragem.
+### Minhas anotações sobre Amostragem.
 
 ---
 
