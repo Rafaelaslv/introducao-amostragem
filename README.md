@@ -20,6 +20,7 @@ Uma população é o conjunto de dados que contém todas as observações possí
 Como considera todas as observações existentes, qualquer análise feita utilizando a população reflete a realidade e não possui qualquer erro intrínseco; chamamos as medidas que calculamos utilizando a população de parâmetros.
 
 Uma amostra é um subconjunto da população, é a parte do todo que é usada para representar a população.
+
 Como considera apenas parte das observações existentes, qualquer análise feita utilizando uma amostra possui uma margem de erro intrínseca; chamamos as medidas que calculamos utilizando a população de estimativas.
 
 ---
