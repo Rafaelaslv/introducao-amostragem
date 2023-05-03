@@ -23,6 +23,8 @@ Uma amostra é um subconjunto da população, é a parte do todo que é usada pa
 
 Como considera apenas parte das observações existentes, qualquer análise feita utilizando uma amostra possui uma margem de erro intrínseca; chamamos as medidas que calculamos utilizando a população de estimativas.
 
+E uma boa amostra significa que seus resultados estão mais próximos da realidade.
+
 ---
 
 ### Temos várias técnicas para amostrar dados, mas 4 se destacam como as mais úteis e populares:
