@@ -1,12 +1,16 @@
 # 👩‍🔬🎲Estatística para Ciência de Dados.
 
----
-
 ### Minhas anotações sobre Amostragem.
 
 ---
 
 Sumário
 
-* O que é Amostragem?
-* 
+* Populacao e Amostra
+* Tecnicas de amostragem
+* Amostragem aleatoria simples e sistematica
+* Amostragem estratificada e por conglomerados
+
+---
+
+
