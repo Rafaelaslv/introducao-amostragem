@@ -25,13 +25,16 @@ Como considera apenas parte das observações existentes, qualquer análise feit
 
 E uma boa amostra significa que seus resultados estão mais próximos da realidade.
 
+Amostragem é o processo de seleção de observações da população que irão compor uma amostra.
+
 ---
 
 ### Temos várias técnicas para amostrar dados, mas 4 se destacam como as mais úteis e populares:
 
-* Amostragem aleatória simples
+* Amostragem aleatória simples: Selecionamos de forma aleatória as observações que irão compor a amostra. Esse tipo de amostragem é a mais utilizada e popular.
+Vantagens: 
 
-* Amostragem sistemática
+* Amostragem sistemática:
 
 * Amostragem aleatória estratificada
 
