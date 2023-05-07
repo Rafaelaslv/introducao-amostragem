@@ -15,17 +15,17 @@ Sumário
 
 ### Conceitos
 
-Uma população é o conjunto de dados que contém todas as observações possíveis, contendo todo e qualquer grupo que possa existir para esses dados.
+* Uma população é o conjunto de dados que contém todas as observações possíveis, contendo todo e qualquer grupo que possa existir para esses dados.
 
 Como considera todas as observações existentes, qualquer análise feita utilizando a população reflete a realidade e não possui qualquer erro intrínseco; chamamos as medidas que calculamos utilizando a população de parâmetros.
 
-Uma amostra é um subconjunto da população, é a parte do todo que é usada para representar a população.
+* Uma amostra é um subconjunto da população, é a parte do todo que é usada para representar a população.
 
 Como considera apenas parte das observações existentes, qualquer análise feita utilizando uma amostra possui uma margem de erro intrínseca; chamamos as medidas que calculamos utilizando a população de estimativas.
 
 E uma boa amostra significa que seus resultados estão mais próximos da realidade.
 
-Amostragem é o processo de seleção de observações da população que irão compor uma amostra.
+* Amostragem é o processo de seleção de observações da população que irão compor uma amostra.
 
 ---
 
@@ -43,14 +43,26 @@ Vantagens:
 
 Desvantagens:
 
-* Amostragem aleatória estratificada: Selecionamos subgrupos heterogêos entre si (mas as observações dentro dos subgrupos são hhomogêneas). 
+* Amostragem aleatória estratificada: Selecionamos subgrupos heterogêneos entre si (mas as observações dentro dos subgrupos são homogêneas). 
  E fazemos uma amostragem aleatória simples para cada estrato, juntando os resultados para compor a amostra final.
  
  Vantagens:
  
  Desvantagens:
 
-* Amostragem aleatória por conglomerados
+* Amostragem aleatória por conglomerados: Selecionamos subgrupos homogêneos entre si (mas as observações dentro dos subgrupos são heterogêneas).
+
+Vantagens:
+
+Desvantagens:
+
+---
+
+🔎 Kaggle é uma plataforma para aprendizado de ciência de dados.
+
+É também uma comunidade, a maior da internet, para assuntos relacionados com Data Science.
+
+🕮 Conceitos e análises estatísticas com R e JASP.
 
 
 
