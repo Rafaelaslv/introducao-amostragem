@@ -52,9 +52,10 @@ Desvantagens: Eventualmente, pode não representar bem subgrupos populacionais. 
 
 * Amostragem aleatória por conglomerados: Selecionamos subgrupos homogêneos entre si (mas as observações dentro dos subgrupos são heterogêneas).
 
-Vantagens:
+Vantagens: Quando a identificação dos elementos da população é difícil, os conglomerados aparecem como solução.
+A população já está dividida naturalmente.
 
-Desvantagens:
+Desvantagens: Os extratos não serem homogêneos entre eles.
 
 ---
 
