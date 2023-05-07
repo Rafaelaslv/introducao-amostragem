@@ -32,11 +32,23 @@ Amostragem é o processo de seleção de observações da população que irão 
 ### Temos várias técnicas para amostrar dados, mas 4 se destacam como as mais úteis e populares:
 
 * Amostragem aleatória simples: Selecionamos de forma aleatória as observações que irão compor a amostra. Esse tipo de amostragem é a mais utilizada e popular.
+
 Vantagens: 
 
-* Amostragem sistemática:
+Desvantagens:
 
-* Amostragem aleatória estratificada
+* Amostragem sistemática: Selecionamos uma regra de seleção de observações para compor a amostra.
+
+Vantagens: 
+
+Desvantagens:
+
+* Amostragem aleatória estratificada: Selecionamos subgrupos heterogêos entre si (mas as observações dentro dos subgrupos são hhomogêneas). 
+ E fazemos uma amostragem aleatória simples para cada estrato, juntando os resultados para compor a amostra final.
+ 
+ Vantagens:
+ 
+ Desvantagens:
 
 * Amostragem aleatória por conglomerados
 
