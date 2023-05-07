@@ -33,22 +33,22 @@ E uma boa amostra significa que seus resultados estão mais próximos da realida
 
 * Amostragem aleatória simples: Selecionamos de forma aleatória as observações que irão compor a amostra. Esse tipo de amostragem é a mais utilizada e popular.
 
-Vantagens: 
+Vantagens: Evita o erro sistemático e viés de seleção. Tende a ser simples de se planejar e comunicar aos outros.
 
-Desvantagens:
+Desvantagens: Tende a ter uma execução complexa e cara. Eventualmente, pode não representar bem subgrupos populacionais.
 
 * Amostragem sistemática: Selecionamos uma regra de seleção de observações para compor a amostra.
 
-Vantagens: 
+Vantagens: Mais rápida de se implementar do que a amostragem aleatória simples.
 
-Desvantagens:
+Desvantagens: Eventualmente, pode não representar bem subgrupos populacionais. A ordenação dos participantes pode ser igual a uma ordenação existente, mas desconhecida, na população.
 
 * Amostragem aleatória estratificada: Selecionamos subgrupos heterogêneos entre si (mas as observações dentro dos subgrupos são homogêneas). 
  E fazemos uma amostragem aleatória simples para cada estrato, juntando os resultados para compor a amostra final.
  
- Vantagens:
+ Vantagens: Evita sub-representação de grupos pouco frequentes.
  
- Desvantagens:
+ Desvantagens: É preciso conhecer os estratos e sua execução é cara e custosa.
 
 * Amostragem aleatória por conglomerados: Selecionamos subgrupos homogêneos entre si (mas as observações dentro dos subgrupos são heterogêneas).
 
