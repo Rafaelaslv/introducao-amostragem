@@ -62,7 +62,7 @@ Desvantagens: Os extratos não serem homogêneos entre eles.
 
 ### Calculando amostras
 
-Jupyter é uma IDE (Integrated Development Environment ou Ambiente de Desenvolvimento Integrado) utilizado para analisar dados.
+* Jupyter é uma IDE (Integrated Development Environment ou Ambiente de Desenvolvimento Integrado) utilizado para analisar dados.
 
 É open source e o nome vem de 3 linguagens de programação: Julia, Python e R.
 
