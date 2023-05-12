@@ -72,6 +72,20 @@ from random import sample
 populacao = [1,2,3]
 sample (populacao, 2)
 
+A biliotecca pandas é a mais utilizada em Python para análise de dados.
+
+df = pandas.DataFrame(populacao, columns = ["values"]
+
+values
+0  1
+1  2
+2  3
+3  4
+
+df.sample(n=2)
+
+Na primeira coluna ficam os indices.
+
 ---
 
 🔎 Kaggle é uma plataforma para aprendizado de ciência de dados.
