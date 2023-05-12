@@ -66,13 +66,18 @@ Desvantagens: Os extratos não serem homogêneos entre eles.
 
 É open source e o nome vem de 3 linguagens de programação: Julia, Python e R.
 
-O Python tem seu método bult-in para cálculo de amostras aleatórias.
+---
+
+* O Python tem seu método bult-in para cálculo de amostras aleatórias.
 
 from random import sample
 populacao = [1,2,3]
 sample (populacao, 2)
 
-A biliotecca pandas é a mais utilizada em Python para análise de dados.
+
+---
+
+* A biliotecca pandas é a mais utilizada em Python para análise de dados.
 
 df = pandas.DataFrame(populacao, columns = ["values"]
 
@@ -85,6 +90,12 @@ values
 df.sample(n=2)
 
 Na primeira coluna ficam os indices.
+
+---
+
+Podemos também passar a proporção do todo que queremos na queremos na nossa amostra, ao invés de passar o tamanho da amostra que queremos.
+
+df.sample(frac = 0.33)
 
 ---
 
