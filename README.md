@@ -10,6 +10,7 @@ Sumário
 * Técnicas de amostragem
 * Amostragem aleatória simples e sistemática
 * Amostragem estratificada e por conglomerados
+* Calculando amostras
 
 ---
 
@@ -56,6 +57,20 @@ Vantagens: Quando a identificação dos elementos da população é difícil, os
 A população já está dividida naturalmente.
 
 Desvantagens: Os extratos não serem homogêneos entre eles.
+
+---
+
+### Calculando amostras
+
+Jupyter é uma IDE (Integrated Development Environment ou Ambiente de Desenvolvimento Integrado) utilizado para analisar dados.
+
+É open source e o nome vem de 3 linguagens de programação: Julia, Python e R.
+
+O Python tem seu método bult-in para cálculo de amostras aleatórias.
+
+from random import sample
+populacao = [1,2,3]
+sample (populacao, 2)
 
 ---
 
