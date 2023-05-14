@@ -79,7 +79,9 @@ sample (populacao, 2)
 
 * A biliotecca pandas é a mais utilizada em Python para análise de dados.
 
-df = pandas.DataFrame(populacao, columns = ["values"]
+import pandas
+df = pandas.DataFrame(populacao, columns = ["values"])
+df.sample(n = 4)
 
 values
 0  1
@@ -87,14 +89,14 @@ values
 2  3
 3  4
 
-df.sample(n=2)
-
 Na primeira coluna ficam os indices.
 
 ---
 
 Podemos também passar a proporção do todo que queremos na queremos na nossa amostra, ao invés de passar o tamanho da amostra que queremos.
 
+populacao = [1,2,3,4,5,6,7,8,9,10,11,12]
+df = pandas.DataFrame(populacao, columns = ["values"]
 df.sample(frac = 0.33)
 
 ---
